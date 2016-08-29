@@ -236,6 +236,9 @@
 			<span style="" >
 			&copy; HAWK EYES 2016 || ALL RIGHTS RESERVED
 			</span>
+			<span style="color:#ff6d06" >
+			 || Powred by <a href="http://wedeveloponline.com" target="_blank">WeDevelopOnline.com</a>
+			</span>
 		</div>
 	</div>
 	
